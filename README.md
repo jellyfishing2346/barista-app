@@ -1,12 +1,39 @@
-# React + Vite
+# ☕ On My Grind - Starbucks Drink Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![App Screenshot](https://courses.codepath.org/course_images/web102/lab3/checkpoint6_val.png)
 
-Currently, two official plugins are available:
+**Think you know Starbucks drinks?** Put your barista skills to the test with this interactive quiz app inspired by Wordle! Guess the ingredients of random Starbucks drinks and see if you can get them all right.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 How to Play
 
-## Expanding the ESLint configuration
+1. Click "New Drink" to get a random Starbucks beverage
+2. Guess the drink's:
+   - Temperature (hot, cold, etc.)
+   - Milk type (oat, almond, etc.)
+   - Syrup flavor (vanilla, caramel, etc.)
+   - Whether it's blended
+3. Click "Check Answer" to see what you got right
+4. Try again or get a new drink!
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+✅ **Multiple Choice Quiz** - Select from authentic Starbucks ingredients  
+✅ **Instant Feedback** - See which ingredients you guessed correctly  
+✅ **Random Drink Generator** - Test your knowledge on dozens of real menu items  
+✅ **Mobile-Friendly Design** - Play anywhere  
+🔮 **Coming Soon** - Leaderboard and timed challenges!
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript
+- CSS Flexbox
+- Vite
+- JSON data handling
+
+## 🚀 Getting Started
+
+1. Clone this repo
+2. Install dependencies:
+   ```bash
+   npm install
