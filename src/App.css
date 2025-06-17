@@ -209,8 +209,13 @@ h1 {
   }
   
   .mini-container {
-    margin: 15px 0;
-    width: 80%;
+     display: flex;
+     justify-content: space-evenly;
+     flex-direction: column;
+     margin: 25px;
+     padding: 15px;
+     border-radius: 15px;
+     box-shadow: 0 4px 8px #0003,0 6px 20px #00000030
   }
 
 }
