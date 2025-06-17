@@ -28,7 +28,7 @@
 Demo: https://profound-nougat-b99d04.netlify.app/
 
 ## Demo Recording
-[!Demo Recording](src/assets/On-My-Grind.gif)
+[Demo Recording](src/assets/On-My-Grind.gif)
 
 ## 🛠️ Tech Stack
 
