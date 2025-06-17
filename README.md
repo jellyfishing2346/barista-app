@@ -24,6 +24,9 @@
 ✅ **Mobile-Friendly Design** - Play anywhere  
 🔮 **Coming Soon** - Leaderboard and timed challenges!
 
+## Demo
+Demo: https://profound-nougat-b99d04.netlify.app/
+
 ## 🛠️ Tech Stack
 
 - React.js
