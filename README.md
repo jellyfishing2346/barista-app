@@ -27,6 +27,9 @@
 ## Demo
 Demo: https://profound-nougat-b99d04.netlify.app/
 
+## Demo Recording
+Demo Recording: https://submissions.us-east-1.linodeobjects.com/web102/OuQJagdC.gif
+
 ## 🛠️ Tech Stack
 
 - React.js
