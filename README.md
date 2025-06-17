@@ -1,7 +1,7 @@
 # ☕ On My Grind - Starbucks Drink Quiz
 
 
-![App Screenshot](https://courses.codepath.org/course_images/web102/lab3/checkpoint6_val.png)
+![App Screenshot](src/assets/On-My-Grind.png)
 
 **Think you know Starbucks drinks?** Put your barista skills to the test with this interactive quiz app inspired by Wordle! Guess the ingredients of random Starbucks drinks and see if you can get them all right.
 
@@ -28,7 +28,7 @@
 Demo: https://profound-nougat-b99d04.netlify.app/
 
 ## Demo Recording
-Demo Recording: https://submissions.us-east-1.linodeobjects.com/web102/OuQJagdC.gif
+[!Demo Recording](src/assets/On-My-Grind.gif)
 
 ## 🛠️ Tech Stack
 
